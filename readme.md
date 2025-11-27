@@ -44,3 +44,7 @@ python ./trainer.py --save_path /path/to/save_dir/ --dataset {dataset_name} --da
 ```shell
 python ./archs/PAMNet.py
 ```
+
+##### 5 pretrained model weight
+
+- download from https://drive.google.com/drive/folders/1N3wUd0TB7C3QXyP91JMEFFZzvCEFaEGB?usp=drive_link
